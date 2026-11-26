@@ -13,9 +13,11 @@ CIRCÉ is a Claude Code plugin that plugs into 5 moments of every session, with 
 - **Library.** 20 verified tools, plus the Quai, which reads a package's code without ever running it.
 
 €20/month excl. VAT · full refund within 14 days · [cdow.fr/en](https://cdow.fr/en/)
+
 Docs, changelog and support: [cleobaud/circe](https://github.com/cleobaud/circe)
 
 ---
 
 **En français.** Je crée CIRCÉ, un système vivant pour Claude Code, inspiré des mécanismes du corps : [cdow.fr](https://cdow.fr).
+
 Les créations (sites, vidéos, 3D) se font sur devis : contact@cdow.fr
